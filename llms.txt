@@ -5,7 +5,7 @@
 ## Services
 - Business and data: Excel data cleaning, data formatting, advanced formulas, data entry, MIS reporting, PDF to Excel conversion, review management (genuine feedback only)
 - Bihar citizen services: jati/niwas/aay/EWS/OBC/NCL certificates, PAN card, voter ID, ration card, old age pension, scholarship (NSP/Bihar), lagan rasid, Aayushman card, E-Shram, ABHA health ID
-- Education: IGNOU admission, re-registration and exam form guidance
+- Education: IGNOU admission, re-registration and exam form guidance; solved assignment reference PDFs (₹20 per PDF) via https://www.studenthelpclub.in/ or WhatsApp
 - Other: railway ticket booking guidance (IRCTC rules), resume writing
 - Cyber cafe partnership: cafes anywhere in India can send Bihar-focused form work; scope and charges confirmed per job on WhatsApp
 
