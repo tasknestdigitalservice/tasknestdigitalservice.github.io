@@ -1,0 +1,23 @@
+# TaskNest Digital Service
+
+> Independent private assistance service for Excel and data work, Bihar citizen-service form filling, IGNOU admission/exam-form guidance, and cyber cafe partnerships. Not a government website and not affiliated with IGNOU, NSDL, UTIITSL, ECI, IRCTC or any government body.
+
+## Services
+- Business and data: Excel data cleaning, data formatting, advanced formulas, data entry, MIS reporting, PDF to Excel conversion, review management (genuine feedback only)
+- Bihar citizen services: jati/niwas/aay/EWS/OBC/NCL certificates, PAN card, voter ID, ration card, old age pension, scholarship (NSP/Bihar), lagan rasid, Aayushman card, E-Shram, ABHA health ID
+- Education: IGNOU admission, re-registration and exam form guidance
+- Other: railway ticket booking guidance (IRCTC rules), resume writing
+- Cyber cafe partnership: cafes anywhere in India can send Bihar-focused form work; scope and charges confirmed per job on WhatsApp
+
+## How it works
+- Enquiries start on WhatsApp or email. Scope, assistance fee, any official fees and turnaround are confirmed before work starts.
+- Passwords and OTPs are never requested. Official approvals and timelines are decided by the relevant authority and cannot be guaranteed.
+
+## Contact
+- WhatsApp/Call: +91 9776986830
+- Email: tasknestai@gmail.com
+- Website: https://tasknestdigitalservice.github.io/
+
+## Policies
+- Privacy: /privacy.html
+- Disclaimer: /disclaimer.html
